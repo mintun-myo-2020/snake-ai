@@ -1,0 +1,5 @@
+setup.py
+snakegym.egg-info/PKG-INFO
+snakegym.egg-info/SOURCES.txt
+snakegym.egg-info/dependency_links.txt
+snakegym.egg-info/top_level.txt
